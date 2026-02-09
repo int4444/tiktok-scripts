@@ -1,7 +1,7 @@
-# 🎵 TikTok Scripts Collection
+# 🎵 TikTok Algorithms + Automation Scripts
 
 Professional TikTok automation scripts powered by RapidAPI. This repository contains various tools for TikTok automation including follow bot, like bot, comment automation, and X-Argus signature generation.
-
+Support AppID tiktok and tiktok go
 ## ✨ Features
 
 - 🤖 **Mass Follow Bot** - Follow users automatically
